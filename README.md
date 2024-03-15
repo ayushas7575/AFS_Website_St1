@@ -1,15 +1,11 @@
-# GFG_Hackathon
-## GFG X Google Solving for India Hackathon
+# AFS_ST1_PROJECT
 
 
-# Team Name: Ctrl_C-Ctrl_V
+
 
 # Team Members:
-1. Rashi Gupta : https://github.com/Ras-hi
-2. Mudit Anand : https://github.com/Webolove
-3. Prakash V.S Tomar : https://github.com/lonewolf235
-4. Veena Venugopal : https://github.com/VeenaVenugopal2004
-
+1.Ayush Kumar Singh
+2.Abhishek Kumar
 # Project Title: AquaHarvest
 
 # Project Description:
